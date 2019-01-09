@@ -1,4 +1,4 @@
-// Nick Korintus
+// Author: Nick Korintus
 
 
 public class LockDataStructure implements LockADT
